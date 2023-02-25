@@ -11,3 +11,7 @@ FFmpeg should now be installed!
 
 You can also update FFmpeg on the command line by running:
 choco upgrade ffmpeg
+
+This batch file can then be used on the command line by running:
+ffmpeg-script.bat
+Then following the available prompts
